@@ -1,0 +1,8 @@
+{
+  "name": "knowledgebase-be",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:umyar/knowledgebase-be.git",
+  "author": "Umyar Yusupov <umiarka@gmail.com>",
+  "license": "MIT"
+}
